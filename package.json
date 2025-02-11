@@ -1,6 +1,6 @@
 {
   "name": "package-modal-marwam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Un package React simple et réutilisable pour afficher un modal de confirmation ou d'annulation de tâche.",
   "main": "dist/index.js",
   "scripts": {
